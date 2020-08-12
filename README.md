@@ -3,8 +3,10 @@ EasyLinks is a project that helps people specifially college students to organiz
 
 ## :one: Create and Manage Your Own Links
 You can create and use two types of links:
-- Public links: Created by one person but can be viewedn and used by all users using EasyLinks.
-- Private links: Created by one person and can be only be viewed and used by that person.
+| Link Type | Description |
+| - | - |
+| Public links | Created by one person but can be viewedn and used by all users using EasyLinks.|
+| Private links| Created by one person and can be only be viewed and used by that person.       |
 
 **All links created will be shown and can be managed in the [management page](https://easylinks-step-2020.uc.r.appspot.com/manage.html).**
 
@@ -13,6 +15,7 @@ You can create and use two types of links:
 
 For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-professor](https://www.ratemyprofessors.com/) website:
 - Append to the end of the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/rmp`
+
 ![Image of typing URL](URL.png)
 
 - Type in directly in the search bar.
