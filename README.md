@@ -7,3 +7,5 @@ You can create and use two types of links:
 - Private links: Created by one person and can be only be viewed and used by that person.
 
 **All links created will be shown and managed in the [management page](https://easylinks-step-2020.uc.r.appspot.com/manage.html).**
+
+## Using EasyLinks
