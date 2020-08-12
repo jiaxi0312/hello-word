@@ -8,4 +8,5 @@ You can create and use two types of links:
 
 **All links created will be shown and managed in the [management page](https://easylinks-step-2020.uc.r.appspot.com/manage.html).**
 
-## Using EasyLinks
+## :two: Using EasyLinks
+You can use the exsiting public link or the private links you created.
