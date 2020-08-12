@@ -7,7 +7,7 @@ EasyLinks is a project that helps people specifially college students to organiz
 You can create and use two types of links:
 | Link Type | Description |
 | - | - |
-| Public links | Created by one person but can be viewedn and used by all users using EasyLinks.|
+| Public links | Created by one person but can be viewed and used by all people using EasyLinks.|
 | Private links| Created by one person and can be only be viewed and used by that person.       |
 
 
