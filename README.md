@@ -14,6 +14,8 @@ You can use the exsiting public link or the private links you created.
 **To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
 
 For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-professor](https://www.ratemyprofessors.com/) website:
-- Option One:
+- Option One: Type in directly in the search bar.
 
-[Image of typing in search bar]
+![Image of typing in search bar](searchbar.png)
+- Option Two: Append to the end of the EasyLinks URL. 
+  - `https://easylinks-step-2020.uc.r.appspot.com/rmp`
