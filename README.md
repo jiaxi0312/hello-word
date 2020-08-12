@@ -12,7 +12,7 @@ You can create and use two types of links:
 **To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
 
 For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-professor](https://www.ratemyprofessors.com/) website:
-- Type in directly in the search bar.
-![Image of typing in search bar](searchbar.png)
 - Append to the end of the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/rmp`
 ![Image of typing URL](URL.png)
+- Type in directly in the search bar.
+![Image of typing in search bar](searchbar.png)
