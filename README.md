@@ -36,6 +36,20 @@ Also, as most people are WFH, EasyLinks would display the Hangout link for that 
 
 Type `~next` directly in the search bar.
 
-OR
+*OR* 
 
 Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
+
+## People Search: `~who` ###
+If you want to search for a person in your school, `~who` shortcut will help you.
+
+To use it, simply add the name you want to search to the shortcut. See example below.
+
+### Usage: ### 
+**The example below will show how to search people called Alice.**
+
+Type `~who/Alice` in the search bar.
+
+*OR*
+
+Append `~who/Alice` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~who/Alice`.
