@@ -26,9 +26,9 @@ For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-pr
 ![Image of typing in search bar](searchbar.png)
 
 ## :three: Calender: `~next`
-When received `~next` shortcut, EasyLinks will retrieve the information of next event in your Google calender and display it in another website. 
+`~next` will make EasyLinks retrieve the information of next event in your Google calender and display it in another website. 
 
-In that website, EasyLinks will provide you the option to navigate to the meeting location and give you an estimated time to leave for that place.
+EasyLinks will help you to navigate to the meeting place and give you an latest time to leave for that place.
 
 Also, as most people are WFH, EasyLinks would display the Hangout link for that meeting if there is any.
 
@@ -41,7 +41,9 @@ Type `~next` directly in the search bar.
 Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
 
 ## :four: People Search: `~who` ###
-If you want to search for a person in your school, `~who` shortcut will help you.
+If you want to search for a person in your school by using `~who`.
+
+All the matching people with their email address will be displayed.
 
 To use it, simply add the name you want to search to the shortcut. See example below.
 
@@ -54,7 +56,7 @@ Type `~who/Alice` in the search bar.
 
 Append `~who/Alice` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~who/Alice`.
 
-### :five: Navigation: `~where` ###
+## :five: Navigation: `~where` ##
 `~where` shortcut will search a place you type in.
 
 What's more, if you are a college student, you can use place abbrevation in your school for searching! See example below.
