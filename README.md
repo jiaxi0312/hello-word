@@ -40,6 +40,9 @@ Type `~next` directly in the search bar.
 
 Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
 
+### Note: ###
+You may need to log in and authorize EasyLink to view your Google Calender.
+
 ## :four: People Search: `~who` ###
 `~who` will assist you search people in your school and email them.
 
@@ -48,13 +51,16 @@ All matching people with their email address will be displayed, and you would ha
 To use it, simply add the name you want to search to the shortcut. See example below.
 
 ### Usage: ### 
-**The example below will show how to search people called Alice.**
+**The example below shows how to search people called Alice.**
 
 Type `~who/Alice` in the search bar.
 
 *OR*
 
 Append `~who/Alice` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~who/Alice`.
+
+### Note: ###
+For now, People Search is only avaliable for students at [Columbia University](https://www.columbia.edu/). More is about to coming.
 
 ## :five: Navigation: `~where` ##
 `~where` shortcut will search a place you type in.
@@ -72,3 +78,5 @@ Type `~where/wat` in the search bar.
 
 Append `~where/wat` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~where/wat`.
 
+### Note: ###
+For now, abbrevation search will only support building in [Columbia University](https://www.columbia.edu/). More will be added. 
