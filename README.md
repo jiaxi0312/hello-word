@@ -1,7 +1,18 @@
 # EasyLinks
 EasyLinks is a project that helps people specifially college students to organize their frequently visited websites. People could store their favorite website address as a short, easy-to-remember shortcut. Also, EasyLinks provides the way for college students to quick navigate through their campus and search for other students or faulty member in the same school.
 
-## :one: Create and Manage Your Own Links
+## :one: Using EasyLinks
+**To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
+
+For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-professor](https://www.ratemyprofessors.com/) website:
+- Append to the end of the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/rmp`
+
+![Image of typing URL](URL.png)
+
+- Type in directly in the search bar.
+![Image of typing in search bar](searchbar.png)
+
+## :two: Create and Manage Your Own Links
 **All links created will be shown and can be managed in the [management page](https://easylinks-step-2020.uc.r.appspot.com/manage.html).**
 
 You can create and use two types of links:
@@ -13,17 +24,6 @@ You can create and use two types of links:
 **Note:**
   1. To use private links, you may need to login with your email first.
   2. `~next`, `~who`, `~next` are reserved shortcuts for other functionalities. You may not create or change links starting from those. For more information, [see below](https://github.com/jiaxi312/hello-word/blob/master/README.md#three-calender-next).
-
-## :two: Using EasyLinks
-**To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
-
-For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-professor](https://www.ratemyprofessors.com/) website:
-- Append to the end of the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/rmp`
-
-![Image of typing URL](URL.png)
-
-- Type in directly in the search bar.
-![Image of typing in search bar](searchbar.png)
 
 ## :three: Calender: `~next`
 `~next` will show the next event from your Google calender. 
