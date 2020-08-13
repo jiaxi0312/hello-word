@@ -5,11 +5,14 @@ EasyLinks is a project that helps people specifially college students to organiz
 **All links created will be shown and can be managed in the [management page](https://easylinks-step-2020.uc.r.appspot.com/manage.html).**
 
 You can create and use two types of links:
-| Link Type | Description |
+| Type | Description |
 | - | - |
 | Public links | Created by one person but can be viewed and used by all people using EasyLinks.|
 | Private links| Created by one person and can be only be viewed and used by that person.       |
 
+**Note:**
+  1. To use private links, you may need to login with your email first.
+  2. `~next`, `~who`, `~next` are reserved shortcuts for other functionalities. You may not create or change links starting from those. For more information, see below.
 
 ## :two: Using EasyLinks
 **To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
@@ -21,3 +24,10 @@ For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-pr
 
 - Type in directly in the search bar.
 ![Image of typing in search bar](searchbar.png)
+
+## :three: Calender: `~next`
+When received `~next` shortcut, EasyLinks will retrieve the information of next event in your Google calender. 
+
+Then, you can view your event in the web and the place where the event will happening. And, EasyLinks will provide you the option to navigate to that location and give you an estimated time to leave for that place.
+
+Also, as most people are WFH, EasyLinks would display the Hangout link for that meeting if there is any.
