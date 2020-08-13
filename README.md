@@ -59,7 +59,9 @@ Append `~who/Alice` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r
 ## :five: Navigation: `~where` ##
 `~where` shortcut will search a place you type in.
 
-What's more, if you are a college student, you can use place abbrevation in your school for searching! See example below.
+If you are a college student, you can use place abbrevation in your school for searching!
+
+To use it, simply add the destination name or abbrevation you want to search to the shortcut. See example below.
 
 ### Usage: ###
 **The example below shows how to search the place with abbrevated name WAT (stands for Watson Hall).**
