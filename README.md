@@ -12,7 +12,7 @@ You can create and use two types of links:
 
 **Note:**
   1. To use private links, you may need to login with your email first.
-  2. `~next`, `~who`, `~next` are reserved shortcuts for other functionalities. You may not create or change links starting from those. For more information, see below.
+  2. `~next`, `~who`, `~next` are reserved shortcuts for other functionalities. You may not create or change links starting from those. For more information, [see below](https://github.com/jiaxi312/hello-word/blob/master/README.md#three-calender-next).
 
 ## :two: Using EasyLinks
 **To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
