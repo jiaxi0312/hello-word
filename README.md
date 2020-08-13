@@ -26,8 +26,16 @@ For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-pr
 ![Image of typing in search bar](searchbar.png)
 
 ## :three: Calender: `~next`
-When received `~next` shortcut, EasyLinks will retrieve the information of next event in your Google calender. 
+When received `~next` shortcut, EasyLinks will retrieve the information of next event in your Google calender and display it in another website. 
 
-Then, you can view your event in the web and the place where the event will happening. And, EasyLinks will provide you the option to navigate to that location and give you an estimated time to leave for that place.
+In that website, EasyLinks will provide you the option to navigate to the meeting location and give you an estimated time to leave for that place.
 
 Also, as most people are WFH, EasyLinks would display the Hangout link for that meeting if there is any.
+
+### Usage: ###
+
+Type `~next` directly in the search bar.
+
+OR
+
+Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
