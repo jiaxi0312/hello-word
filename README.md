@@ -43,7 +43,7 @@ Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.apps
 ## :four: People Search: `~who` ###
 If you want to search for a person in your school by using `~who`.
 
-All the matching people with their email address will be displayed.
+All matching people with their email address will be displayed, and you would have the option to email them.
 
 To use it, simply add the name you want to search to the shortcut. See example below.
 
