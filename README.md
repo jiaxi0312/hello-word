@@ -40,7 +40,7 @@ Type `~next` directly in the search bar.
 
 Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
 
-## People Search: `~who` ###
+## :four: People Search: `~who` ###
 If you want to search for a person in your school, `~who` shortcut will help you.
 
 To use it, simply add the name you want to search to the shortcut. See example below.
@@ -53,3 +53,18 @@ Type `~who/Alice` in the search bar.
 *OR*
 
 Append `~who/Alice` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~who/Alice`.
+
+### :five: Navigation: `~where` ###
+`~where` shortcut will search a place you type in.
+
+What's more, if you are a college student, you can use place abbrevation in your school for searching! See example below.
+
+### Usage: ###
+**The example below shows how to search the place with abbrevated name WAT (stands for Watson Hall).**
+
+Type `~where/wat` in the search bar.
+
+*OR*
+
+Append `~where/wat` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~where/wat`.
+
