@@ -26,7 +26,7 @@ For example, say we want to use the shortcut `rmp` that is mapped to [rate-my-pr
 ![Image of typing in search bar](searchbar.png)
 
 ## :three: Calender: `~next`
-`~next` will make EasyLinks retrieve the information of next event in your Google calender and display it in another website. 
+`~next` will show the next event from your Google calender. 
 
 EasyLinks will help you to navigate to the meeting place and give you an latest time to leave for that place.
 
@@ -41,7 +41,7 @@ Type `~next` directly in the search bar.
 Append `~next` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r.appspot.com/~next`.
 
 ## :four: People Search: `~who` ###
-If you want to search for a person in your school by using `~who`.
+`~who` will assist you search people in your school and email them.
 
 All matching people with their email address will be displayed, and you would have the option to email them.
 
