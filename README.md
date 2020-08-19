@@ -1,5 +1,5 @@
 # EasyLinks
-EasyLinks is a project that helps people specifially college students to organize their frequently visited websites. People could store their favorite website address as a short, easy-to-remember shortcut. Also, EasyLinks provides the way for college students to quick navigate through their campus and search for other students or faulty member in the same school.
+EasyLinks is an interactive web application that helps people specifially college students to organize their frequently visited websites. People could store their favorite website address as a short, easy-to-remember shortcut. Also, EasyLinks provides an easy way for college students to quick navigate through their campus and search for other students or faulty member in the same school.
 
 ## :one: Using EasyLinks
 **To use a link, you can simply type in the link in the search bar or append it at the end of the EasyLinks URL.**
@@ -80,3 +80,12 @@ Append `~where/wat` to the EasyLinks URL, like `https://easylinks-step-2020.uc.r
 
 ### Note: ###
 For now, abbrevation search will only support building in [Columbia University](https://www.columbia.edu/). More will be added. 
+
+## Contributor ##
+EasyLinks is the capstone project developed by:
+
+ - Zeyi([@xiaoluLucy814](https://github.com/xiaoluLucy814))
+ - Difan([@difanyang](https://github.com/difanyang))
+ - Jiaxi([@jiaxi312](https://github.com/jiaxi312))
+ 
+ If you find any issue or improvement, feel free to contact us!
